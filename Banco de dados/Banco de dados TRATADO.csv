@@ -1,0 +1,835 @@
+Type,Country,Activity,Sex,Age,Fatal,Species
+Boating,USA,Paddling,F,57,N,white shark
+Unprovoked,USA,Fishing,M,52,N,lemon shark
+Unprovoked,USA,Walking,M,15,N,bull shark
+Unprovoked,USA,Body boarding,M,29,N,unknown
+Unprovoked,USA,Stand-Up Paddleboarding,M,25,N,tiger shark
+Unprovoked,USA,Surfing,F,54,N,tiger shark
+Unprovoked,USA,Spearfishing,M,25,N,white shark
+Unprovoked,USA,Surfing,M,54,N,tiger shark
+Unprovoked,USA,Snorkeling,F,40,N,unknown
+Unprovoked,USA,Surfing,M,18,N,unknown
+Unprovoked,USA,SUP,M,69,N,white shark
+Unprovoked,USA,Swimming,M,13,N,blacktip shark
+Provoked,USA,Fishing,M,34,N,unknown
+Boating,USA,Kayaking,M,40,N,white shark
+Unprovoked,USA,SUP,M,50,N,white shark
+Unprovoked,USA,Swimming,M,46,N,bull shark
+Unprovoked,USA,Swimming,F,14,N,bull shark
+Provoked,USA,Touching a shark,F,20,N,unknown
+Unprovoked,USA,Surfing,M,28,N,tiger shark
+Unprovoked,USA,Swimming,F,17,N,bull shark
+Unprovoked,USA,Floating,F,58,N,tiger shark
+Unprovoked,USA,Surfing,M,36,N,unknown
+Unprovoked,USA,Wading,M,60s,N,unknown
+Unprovoked,USA,Swimming,F,51,N,tiger shark
+Unprovoked,USA,Spearfishing,M,22,N,white shark
+Unprovoked,USA,Surfing,M,25,N,bull shark
+Unprovoked,USA,SUP Foil boarding,M,21,N,tiger shark
+Unprovoked,USA,Surfing,M,22,N,blacktip shark
+Provoked,USA,Lobstering,M,43,N,nurse shark
+Unprovoked,USA,Kite surfing,M,61,N,white shark
+Provoked,USA,Fishing,M,59,N,dogfish shark
+Unprovoked,USA,Floating,M,42,N,unknown
+Unprovoked,USA,Floating in tube,F,6,N,unknown
+Unprovoked,USA,Standing,M,19,N,unknown
+Unprovoked,USA,Swimming,M,13,N,unknown
+Unprovoked,USA,Swimming,F,22,N,bull shark
+Unprovoked,USA,Swimming,M,48,N,blacktip shark
+Provoked,USA,Teasing a shark,F,23,N,nurse shark
+Unprovoked,USA,Spearfishing,M,26,N,bull shark
+Unprovoked,USA,Fishing,M,34,N,unknown
+Unprovoked,USA,Paddle boarding,M,48,N,tiger shark
+Unprovoked,USA,Paddle boarding,M,71,N,unknown
+Unprovoked,USA,Surfing,M,28,N,spinner shark
+Unprovoked,USA,Wading,F,28,N,unknown
+Unprovoked,USA,Surfing,M,21,N,unknown
+Unprovoked,USA,Surfing,M,21,N,spinner shark
+Unprovoked,USA,Swimming,M,44,N,tiger shark
+Unprovoked,USA,Surfing,M,25,N,tiger shark
+Unprovoked,USA,Wading,M,13,N,unknown
+Unprovoked,USA,Surfing,M,14,N,blacktip shark
+Unprovoked,USA,Surfing,M,22,N,blacktip shark
+Unprovoked,USA,Surfing,M,14,N,juvenile shark
+Unprovoked,USA,Spearfishing,M,27,N,tiger shark
+Unprovoked,USA,Wading,M,12,N,unknown
+Unprovoked,USA,Stand-Up Paddleboarding,F,50,N,white shark
+Provoked,USA,Kayak Fishing,M,29,N,hammerhead shark
+Unprovoked,USA,Surfing,F,54,N,white shark
+Unprovoked,USA,Surfing,M,21,N,white shark
+Unprovoked,USA,Surfing,M,15,N,unknown
+Unprovoked,USA,Walking,F,10,N,unknown
+Boating,USA,Kayak Fishing,M,22,N,white shark
+Provoked,USA,Spearfishing,M,57,N,hammerhead shark
+Unprovoked,USA,Surfing,M,25,N,spinner shark
+Provoked,USA,Kayak Fishing,M,31,N,mako shark
+Unprovoked,USA,Surfing,M,38,N,white shark
+Unprovoked,USA,Swimming,M,68,N,unknown
+Unprovoked,USA,Playing in the water,M,12,N,unknown
+Unprovoked,USA,Swimming,M,18,N,bull shark
+Unprovoked,USA,Standing,M,43,N,unknown
+Unprovoked,USA,Swimming,M,6,N,sandtiger shark
+Unprovoked,USA,Standing,M,9,N,unknown
+Unprovoked,USA,Wading,M,16,N,bull shark
+Unprovoked,USA,Wading,F,12,N,bull shark
+Unprovoked,USA,Boogie boarding,F,13,N,unknown
+Unprovoked,USA,Playing,M,11,N,bull shark
+Unprovoked,USA,Attempting to rescue a shark,F,17,N,nurse shark
+Unprovoked,USA,Surfing,M,18,N,unknown
+Unprovoked,USA,Wading,M,63,N,foot shark
+Unprovoked,USA,Photographing the shark,M,48,N,blue shark
+Unprovoked,USA,Spearfishing,M,70,N,bull shark
+Unprovoked,USA,Standing / Snorkeling,M,58,N,tiger shark
+Provoked,USA,Shark fishing,M,20,N,unknown
+Unprovoked,USA,Surfing,M,50,N,white shark
+Unprovoked,USA,Surfing,M,44,N,unknown
+Unprovoked,USA,Snorkeling,M,53,N,unknown
+Unprovoked,USA,Surfing,F,34,N,tiger shark
+Unprovoked,USA,Standing in inner tube,F,7,N,bull shark
+Unprovoked,USA,Surfing,M,29,N,blacktip shark
+Unprovoked,USA,Surfing,M,15,N,blacktip shark
+Unprovoked,USA,Surfing,M,28,N,unknown
+Unprovoked,USA,Fishing,M,43,N,bull shark
+Boating,USA,Kayaking,F,20s,N,white shark
+Provoked,USA,Fishing,M,52,N,unknown
+Unprovoked,USA,Body surfing,F,13,N,spinner shark
+Unprovoked,USA,Surfing,M,17,N,spinner shark
+Unprovoked,USA,Surfing,M,29,N,unknown
+Unprovoked,USA,Swimming,M,7,N,bull shark
+Unprovoked,USA,Boogie boarding,M,10,N,tp shark
+Unprovoked,USA,Swimming,M,Teen,N,tiger shark
+Unprovoked,USA,Swimming,M,61,N,unknown
+Unprovoked,USA,Swimming,M,39,N,unknown
+Unprovoked,USA,Body surfing,M,19,N,unknown
+Unprovoked,USA,Standing,M,16,N,sandbar shark
+Unprovoked,USA,Swimming,F,22,N,bull shark
+Unprovoked,USA,Tagging sharks,F,37,N,reef shark
+Unprovoked,USA,Surfing,M,12,N,unknown
+Unprovoked,USA,Swimming,F,40,N,unknown
+Unprovoked,USA,Surfing,M,23,N,unknown
+Unprovoked,USA,Surfing,M,21,N,spinner shark
+Unprovoked,USA,Boogie boarding,M,29,N,tiger shark
+Unprovoked,USA,Surfing,M,30,N,unknown
+Unprovoked,USA,Surfing,M,25,N,white shark
+Unprovoked,USA,Kiteboarding,M,46,N,tiger shark
+Unprovoked,USA,Diving,M,45,N,reef shark
+Unprovoked,USA,Surfing,M,25,N,tiger shark
+Unprovoked,USA,Wading,M,6,N,nurse shark
+Unprovoked,USA,Surfing,M,45,N,white shark
+Unprovoked,USA,Wading,M,12,N,bull shark
+Unprovoked,USA,Swimming,M,21,N,bull shark
+Unprovoked,USA,Surfing,F,13,N,unknown
+Provoked,USA,Surfing,M,43,N,unknown
+Unprovoked,USA,Standing,M,25,N,unknown
+Unprovoked,USA,Casting a net,M,9,N,unknown
+Unprovoked,USA,Snorkeling,F,20,N,tiger shark
+Unprovoked,USA,Surfing,M,10,N,bull shark
+Unprovoked,USA,Fishing,M,17,N,bull shark
+Unprovoked,USA,Surfing,M,18,N,tiger shark
+Unprovoked,USA,Swimming,M,14,N,unknown
+Unprovoked,USA,Swimming,M,28,N,tiger shark
+Unprovoked,USA,Boogie Boarding,F,10,N,unknown
+Provoked,USA,Fishing for sharks,M,58,N,lemon shark
+Unprovoked,USA,Diving,M,32,N,galapagos shark
+Unprovoked,USA,Surfing,M,16,N,unknown
+Unprovoked,USA,Playing in the surf,M,9,N,unknown
+Unprovoked,USA,Surfing,M,21,N,bull shark
+Unprovoked,USA,Surfing,M,58,N,unknown
+Unprovoked,USA,Surfing,M,16,N,blacktip shark
+Unprovoked,USA,Surfing,M,43,N,tiger shark
+Unprovoked,USA,Surfing,M,60,N,unknown
+Unprovoked,USA,Snorkeling,M,61,N,tiger shark
+Unprovoked,USA,Surfing,M,14,N,unknown
+Unprovoked,USA,Diving,M,30,N,tiger shark
+Unprovoked,USA,Surfing,M,43,N,tiger shark
+Unprovoked,USA,Surfing,M,25,N,white shark
+Unprovoked,USA,Swimming,F,51,N,tiger shark
+Unprovoked,USA,Surfing,M,39,N,white shark
+Unprovoked,USA,Paddle boarding,M,55,N,unknown
+Unprovoked,USA,Surfing,M,21,N,unknown
+Unprovoked,USA,Surfing,M,22,N,unknown
+Unprovoked,USA,Boogie boarding,F,8,N,unknown
+Unprovoked,USA,Swimming or boogie boarding,F,56,N,unknown
+Unprovoked,USA,Free diving,M,56,N,lemon shark
+Unprovoked,USA,Body surfing,M,50,N,white shark
+Boating,USA,Kayaking,M,52,N,unknown
+Unprovoked,USA,Swimming,M,6,N,bull shark
+Unprovoked,USA,Sitting in the water,F,16,N,reef shark
+Provoked,USA,Fishing,M,23,N,nurse shark
+Unprovoked,USA,Swimming,F,18,N,blacktip shark
+Unprovoked,USA,Swimming,M,16,N,blacktip shark
+Unprovoked,USA,Wading,F,33,N,unknown
+Unprovoked,USA,Surfing,M,22,N,unknown
+Boating,USA,Kayaking / Fishing,M,30,N,white shark
+Unprovoked,USA,Paddle boarding,F,15,N,white shark
+Unprovoked,USA,Surfing,M,28,N,unknown
+Unprovoked,USA,Surfing,M,28,N,tiger shark
+Unprovoked,USA,Surfing,M,61,N,bull shark
+Unprovoked,USA,Surfing,F,15,N,unknown
+Unprovoked,USA,Surfing,M,17,N,unknown
+Unprovoked,USA,Kite Surfing,M,19,N,unknown
+Unprovoked,USA,Surfing,M,53,N,white shark
+Unprovoked,USA,Surfing,M,27,N,white shark
+Unprovoked,USA,Surfing,M,41,N,white shark
+Unprovoked,USA,Spearfishing,M,21,N,bull shark
+Unprovoked,USA,Surfing,M,25,N,unknown
+Unprovoked,USA,Surfing,M,19,N,blactip shark
+Unprovoked,USA,Surfing,M,19,N,unknown
+Unprovoked,USA,Wading,F,20s,N,sandtiger shark
+Invalid,USA,Playing in the surf,M,7,N,unknown
+Unprovoked,USA,Playing in the surf,F,10,N,bull shark
+Unprovoked,USA,Scuba diving,M,28,N,blacktip shark
+Unprovoked,USA,Spearfishing,M,28,N,sevengill shark
+Unprovoked,USA,Wading,M,19,N,unknown
+Unprovoked,USA,Spearfishing,M,32,N,bull shark
+Unprovoked,USA,Surfing,M,49,N,unknown
+Unprovoked,USA,Body boarding,M,16,N,unknown
+Unprovoked,USA,Scuba diving,M,30,N,porbeagle shark
+Unprovoked,USA,Body boarding,M,19,N,white shark
+Unprovoked,USA,Surfing,M,29,N,white shark
+Unprovoked,USA,Swimming,M,27,N,unknown
+Boating,USA,Kayak Fishing,M,45,N,white shark
+Unprovoked,USA,Standing,F,37,N,unknown
+Unprovoked,USA,Standing,M,16,N,unknown
+Unprovoked,USA,Swimming,M,10,N,blacktip shark
+Unprovoked,USA,Swimming,F,13,N,sandtiger shark
+Unprovoked,USA,Surfing,M,55,N,spinner shark
+Provoked,USA,Fishing,M,20,N,blue shark
+Unprovoked,USA,Surfing,M,19,N,unknown
+Unprovoked,USA,Stand-Up Paddleboarding,M,48,N,unknown
+Unprovoked,USA,Surfing,M,20,N,bull shark
+Unprovoked,USA,Boogie Boarding,F,18,N,unknown
+Provoked,USA,Fishing,M,49,N,lemon shark
+Unprovoked,USA,Wading,F,10,N,unknown
+Provoked,USA,Measuring sharks,M,29,N,lemon shark
+Unprovoked,USA,Surfing,M,68,N,unknown
+Provoked,USA,Diving,M,58,N,sandtiger shark
+Unprovoked,USA,Wading,M,10,N,unknown
+Unprovoked,USA,Fishing,M,31,N,thresher shark
+Unprovoked,USA,Surfing,M,18,N,unknown
+Unprovoked,USA,Surfing,M,54,N,unknown
+Invalid,USA,Swimming,M,60,N,unknown
+Unprovoked,USA,Swimming,F,22,N,white shark
+Unprovoked,USA,Wade Fishing,M,56,N,bull shark
+Provoked,USA,Swimming,F,43,N,nurse shark
+Unprovoked,USA,Surfing,M,31,N,spinner shark
+Unprovoked,USA,Surfing,M,49,N,spinner shark
+Unprovoked,USA,Surfing,M,55,N,spinner shark
+Unprovoked,USA,Surfing,M,31,N,unknown
+Unprovoked,USA,Surfing,F,17,N,unknown
+Unprovoked,USA,Swimming,M,61,N,cutter shark
+Unprovoked,USA,Surfing,M,40,N,unknown
+Unprovoked,USA,Swimming,M,32,N,juvenile shark
+Unprovoked,USA,Surfing,M,40,N,tiger shark
+Unprovoked,USA,Surfing,M,52,N,unknown
+Unprovoked,USA,Surfing,M,26,N,unknown
+Unprovoked,USA,Treading water,F,38,N,bull shark
+Unprovoked,USA,Wading,M,9,N,unknown
+Unprovoked,USA,Wading,F,8,N,unknown
+Unprovoked,USA,Wading,M,16,N,unknown
+Unprovoked,USA,Swimming,M,37,N,unknown
+Boating,USA,Kayaking,F,40,N,white shark
+Unprovoked,USA,Body surfing,F,15,N,unknown
+Unprovoked,USA,Surfing,M,18,N,unknown
+Unprovoked,USA,Swimming,M,66,N,white shark
+Unprovoked,USA,Surfing,M,30,N,unknown
+Unprovoked,USA,Wading,M,15,N,unknown
+Unprovoked,USA,Surfing,M,52,N,unknown
+Unprovoked,USA,Walking out of the water after surfing,M,13,N,unknown
+Unprovoked,USA,Jet skiing,M,8,N,unknown
+Unprovoked,USA,Surfing,M,27,N,white shark
+Unprovoked,USA,Surfing,M,20,N,unknown
+Unprovoked,USA,Surfing,M,52,N,tiger shark
+Unprovoked,USA,Surfing,M,21,N,unknown
+Unprovoked,USA,Surfing,M,42,N,unknown
+Unprovoked,USA,Floating,M,32,N,tiger shark
+Unprovoked,USA,Surfing,M,22,N,unknown
+Unprovoked,USA,Surfing,M,16,N,blacktip shark
+Unprovoked,USA,Surfing,M,23,N,unknown
+Unprovoked,USA,Surfing,F,Teen,N,unknown
+Unprovoked,USA,Snorkeling,M,14,N,nurse shark
+Unprovoked,USA,Jumping,F,12,N,unknown
+Unprovoked,USA,Swimming,M,58,N,spinner shark
+Unprovoked,USA,Body boarding,M,15,N,tiger shark
+Unprovoked,USA,Surfing,M,24,N,white shark
+Unprovoked,USA,Surfing,M,54,N,unknown
+Unprovoked,USA,Surfing,M,27,N,unknown
+Unprovoked,USA,Surfing,M,16,N,unknown
+Unprovoked,USA,Floating near boat & observing bioluminesce,M,20,N,bull shark
+Unprovoked,USA,Swimming,F,15,N,unknown
+Unprovoked,USA,Jumped into the water,F,19,N,bull shark
+Unprovoked,USA,Snorkeling,M,36,N,unknown
+Unprovoked,USA,Swimming,M,14,N,unknown
+Unprovoked,USA,Wading,F,30,N,unknown
+Unprovoked,USA,Surfing,M,20,N,unknown
+Provoked,USA,Reviving a sedated shark,F,40,N,reef shark
+Unprovoked,USA,Surfing,F,21,N,unknown
+Unprovoked,USA,Snorkeling,F,63,N,tiger shark
+Unprovoked,USA,Swimming,M,68,N,unknown
+Unprovoked,USA,Body boarding,M,12,N,spinner shark
+Unprovoked,USA,Surfing,M,24,N,unknown
+Unprovoked,USA,Surfing,M,27,N,unknown
+Unprovoked,USA,Surfing,M,11,N,unknown
+Unprovoked,USA,Surfing,M,24,N,tiger shark
+Unprovoked,USA,Surfing,M,43,N,white shark
+Unprovoked,USA,Swimming,M,29,N,unknown
+Unprovoked,USA,Surfing,M,22,N,white shark
+Unprovoked,USA,Playing soccer in the water,M,18,N,unknown
+Unprovoked,USA,Swimming,M,55,N,spinner shark
+Unprovoked,USA,Surfing,M,52,N,unknown
+Unprovoked,USA,Standing,M,33,N,unknown
+Unprovoked,USA,Surfing,M,41,N,white shark
+Unprovoked,USA,Surfing,M,14,N,unknown
+Unprovoked,USA,Standing,M,49,N,angel shark
+Unprovoked,USA,Body boarding,F,14,N,bull shark
+Unprovoked,USA,Spearfishing,F,28,N,reef shark
+Unprovoked,USA,Spearfishing,M,35,N,reef shark
+Unprovoked,USA,Surfing,F,22,N,spinner shark
+Unprovoked,USA,Surfing,M,24,N,unknown
+Unprovoked,USA,Playing,F,7,N,unknown
+Unprovoked,USA,Spearfishing,M,26,N,tiger shark
+Provoked,USA,Spearfishing,M,15,N,reef shark
+Unprovoked,USA,Scuba diving,F,30s,N,tiger shark
+Provoked,USA,Fishing,M,35,N,bull shark
+Unprovoked,USA,Surfing,F,28,N,tiger shark
+Unprovoked,USA,Standing,F,15,N,unknown
+Boating,USA,Kayaking,M,57,N,unknown
+Unprovoked,USA,Surfing,M,21,N,unknown
+Unprovoked,USA,Surfing,M,30,N,white shark
+Unprovoked,USA,Swimming,M,29,N,tiger shark
+Unprovoked,USA,Surfing,M,23,N,unknown
+Unprovoked,USA,Surfing,M,30s,N,unknown
+Unprovoked,USA,Surfing,M,18,N,unknown
+Unprovoked,USA,Surfing,M,26,N,white shark
+Unprovoked,USA,Wading,M,15,N,unknown
+Unprovoked,USA,Surfing,M,36,N,white shark
+Unprovoked,USA,Surfing,F,20,N,white shark
+Unprovoked,USA,Surfing,M,22,N,tiger shark
+Unprovoked,USA,Body surfing,F,68,N,unknown
+Unprovoked,USA,Wading,F,18,N,bull shark
+Unprovoked,USA,Surfing,M,37,N,white shark
+Unprovoked,USA,Swimming,M,8,N,sandbar shark
+Unprovoked,USA,Surfing,M,16,N,unknown
+Unprovoked,USA,Swimming,M,22,N,unknown
+Unprovoked,USA,Holding onto an inflatable boat,F,14,N,unknown
+Unprovoked,USA,Fishing,M,16,N,bull shark
+Unprovoked,USA,Swimming with boogie board,F,14,N,bull shark
+Unprovoked,USA,Swimming,M,20,N,unknown
+Unprovoked,USA,Swimming,M,33,N,unknown
+Unprovoked,USA,Surfing,M,47,N,tiger shark
+Unprovoked,USA,Wading,F,70,N,blacktip shark
+Provoked,USA,Diving in aquarium display tank,M,45,N,sandtiger shark
+Unprovoked,USA,Surfing,lli,38,N,white shark
+Unprovoked,USA,Spearfishing,M,34,N,tiger shark
+Unprovoked,USA,Surfing,M,26,N,white shark
+Unprovoked,USA,Jumping,F,17,N,unknown
+Unprovoked,USA,Diving,M,50,N,white shark
+Unprovoked,USA,Swimming,M,47,N,unknown
+Unprovoked,USA,Swimming,F,13,N,unknown
+Unprovoked,USA,Swimming,F,19,N,unknown
+Unprovoked,USA,Wading / fishing & carrying a bag of fish,M,11,N,bull shark
+Unprovoked,USA,Wading,M,7,N,unknown
+Unprovoked,USA,Surfing,M,45,N,white shark
+Unprovoked,USA,Swimming,M,8,N,unknown
+Unprovoked,USA,Wading,M,16,N,unknown
+Unprovoked,USA,Surfing,M,44,N,unknown
+Unprovoked,USA,Tandem surfing,M,28,N,mako shark
+Unprovoked,USA,Surfing,M,57,N,tiger shark
+Unprovoked,USA,Surfing,M,20,N,bull shark
+Unprovoked,USA,Surfing,M,51,N,tiger shark
+Unprovoked,USA,Surfing,F,35,N,unknown
+Unprovoked,USA,Surfing,M,18,N,unknown
+Unprovoked,USA,Surfing,F,13,N,tiger shark
+Unprovoked,USA,Surfing,M,19,N,unknown
+Unprovoked,USA,Wading near a fishing net,F,41,N,colored shark
+Unprovoked,USA,Surfing,M,30,N,unknown
+Unprovoked,USA,Body boarding,M,18,N,unknown
+Unprovoked,USA,"Standing, stepped on shark",M,15,N,unknown
+Unprovoked,USA,"Swimming, wearing black wetsuit & swim fins",F,50,N,white shark
+Provoked,USA,"Walking, carrying surfboard & stepped on shark",M,10,N,unknown
+Unprovoked,USA,Surfing,M,21,N,unknown
+Unprovoked,USA,Surfing,M,17,N,unknown
+Unprovoked,USA,Surfing,M,15,N,unknown
+Unprovoked,USA,Standing,F,12,N,brown shark
+Unprovoked,USA,Swimming with pod of dolphins,M,60,N,unknown
+Unprovoked,USA,Swimming,M,51,N,unknown
+Unprovoked,USA,Surfing,M,33,N,sand shark
+Unprovoked,USA,Wading,M,22,N,unknown
+Unprovoked,USA,Swimming,M,20,N,reef shark
+Provoked,USA,Surfing,M,34,N,unknown
+Unprovoked,USA,Surfing,M,36,N,unknown
+Unprovoked,USA,Surfing,M,17,N,unknown
+Unprovoked,USA,Surfing,M,30,N,unknown
+Unprovoked,USA,Surfing,M,23,N,unknown
+Unprovoked,USA,Surfing,M,18,N,unknown
+Unprovoked,USA,Jumping,M,11,N,unknown
+Unprovoked,USA,Surfing,M,12,N,unknown
+Unprovoked,USA,Swimming (using a float),M,20,N,unknown
+Unprovoked,USA,Surfing,M,50,N,unknown
+Unprovoked,USA,Swimming,M,54,N,unknown
+Unprovoked,USA,Body boarding,M,48,N,white shark
+Unprovoked,USA,Swimming,F,34,N,colored shark
+Unprovoked,USA,Surfing,M,21,N,unknown
+Unprovoked,USA,Boogie boarding,M,16,N,unknown
+Unprovoked,USA,Swimming,F,60,N,unknown
+Unprovoked,USA,Surfing,M,14,N,spinner shark
+Unprovoked,USA,Surfing,M,35,N,unknown
+Unprovoked,USA,Surfing,M,18,N,unknown
+Unprovoked,USA,Surfing,M,47,N,unknown
+Unprovoked,USA,Fishing from Surfboard,M,55,N,blacktip shark
+Provoked,USA,Fishing,M, ,N,blacktip shark
+Unprovoked,USA,Boogie boarding or Surfing,M,24,N,unknown
+Unprovoked,USA,Surfing,M,35,N,unknown
+Unprovoked,USA,Boogie boarding,M,20,N,unknown
+Provoked,USA,"Wading, when he stepped on the shark",M,36,N,bonnethed shark
+Unprovoked,USA,Surfing,M,16,N,tiger shark
+Unprovoked,USA,Surfing,M,27,N,unknown
+Unprovoked,USA,Surfing,M,15,N,nurse shark
+Unprovoked,USA,Standing,M,14,N,unknown
+Unprovoked,USA,Surfing,M,13,N,sandbar shark
+Unprovoked,USA,Swimming,F,15,N,bull shark
+Provoked,USA,Shark Fishing,M,41,N,mako shark
+Unprovoked,USA,Standing,F,9,N,bull shark
+Unprovoked,USA,Surfing,M,28,N,tooth shark
+Unprovoked,USA,Surfing,M,50,N,unknown
+Unprovoked,USA,Surfing,M,24,N,white shark
+Unprovoked,USA,Floating on a raft,M,16,N,unknown
+Provoked,USA,"Fishing, removing the shark from his line",M,55,N,blacktip shark
+Unprovoked,USA,Fishing,M,31,N,unknown
+Unprovoked,USA,"Surfing, but standing in water alongside board",M,34,N,unknown
+Unprovoked,USA,Wading,M,41,N,unknown
+Unprovoked,USA,Swimming / Wading,M,29,N,unknown
+Unprovoked,USA,Body-boarding,M,17,N,tiger shark
+Unprovoked,USA,Wading,F,11,N,unknown
+Unprovoked,USA,Swimming /  boogie boarding,M,20,N,unknown
+Unprovoked,USA,Snorkeling,M,39,N,nurse shark
+Unprovoked,USA,Surfing,M,31,N,spinner shark
+Unprovoked,USA,Snorkeling,M,35,N,tiger shark
+Provoked,USA,"Surfing, fell off surfboard & stepped on the shark.",M,21,N,unknown
+Invalid,USA,Wreck / Technical diving,M,42,N,incident shark
+Unprovoked,USA,Boogie boarding,M,6½,Y,unknown
+Unprovoked,USA,Swimming,M,28,Y,white shark
+Unprovoked,USA,Swimming,F,23,Y,white shark
+Unprovoked,USA,Wading,M,20,Y,unknown
+Unprovoked,USA,Swimming,M,10,Y,bull shark
+Unprovoked,USA,Surfing,M,17,Y,unknown
+Unprovoked,USA,Surfing,M,20,Y,spinner shark
+Unprovoked,USA,Surfing,M,19,Y,blacktip shark
+Unprovoked,USA,Surfing,M,19,Y,blacktip shark
+Unprovoked,USA,Boogie boarding,M,18,Y,unknown
+Unprovoked,USA,Swimming,M,8,Y,bull shark
+Unprovoked,USA,Swimming,M,14,Y,unknown
+Provoked,USA,Spearfishing,M,52,Y,white shark
+Unprovoked,USA,Wading,F,29,Y,unknown
+Unprovoked,USA,Swimming,M,11,Y,unknown
+Unprovoked,USA,Surfing,M,45,Y,unknown
+Unprovoked,USA,Surfing,M,12,Y,spinner shark
+Unprovoked,USA,Surfing,M,21,Y,spinner shark
+Unprovoked,USA,Body boarding,M,12,Y,spinner shark
+Unprovoked,USA,Surfing,M,22,Y,spinner shark
+Unprovoked,USA,Surfing,M,19,Y,spinner shark
+Unprovoked,USA,Standing alongside surfboard,M,26,Y,unknown
+Unprovoked,USA,Swimming,M,73,Y,unknown
+Unprovoked,USA,Surfing,M,27,Y,white shark
+Unprovoked,USA,Swimming / snorkeling,F,56,Y,tiger shark
+Unprovoked,USA,Surfing,M,17,Y,unknown
+Unprovoked,USA,Surfing,M,23,Y,blacktip shark
+Unprovoked,USA,Swimming / Body surfing,M,25,Y,unknown
+Unprovoked,USA,Wading,M,40,Y,unknown
+Unprovoked,USA,Swimming,M,47,Y,was shark
+Unprovoked,USA,Jumped into the water,M,69,Y,bull shark
+Unprovoked,USA,"Windsurfing, but sitting on his board",M,53,Y,tiger shark
+Unprovoked,USA,Surfing / Wading,M,27,Y,juvenile shark
+Unprovoked,USA,Standing,F,44,Y,blacktip shark
+Unprovoked,USA,Snorkeling,F,45,Y,nurse shark
+Unprovoked,USA,Surfing,M,14,Y,colored shark
+Unprovoked,USA,Jumping,M,5,Y,lemon shark
+Unprovoked,USA,Playing,F,12,Y,tiger shark
+Unprovoked,USA,"Spearfishing, holding mesh bag with speared fish",F,55,Y,nurse shark
+Unprovoked,USA,Wading,F,13,Y,unknown
+Unprovoked,USA,Standing,F,19,Y,blacktip shark
+Unprovoked,USA,Surfing,M,17,Y,blacktip shark
+Unprovoked,USA,Swimming,M,55,Y,bull shark
+Unprovoked,USA,Swimming,M,44,Y,bull shark
+Unprovoked,USA,Boogie boarding,F,14,Y,unknown
+Unprovoked,USA,Surfing,M,37,Y,unknown
+Unprovoked,USA,Spearfishing,M,39,Y,mako shark
+Unprovoked,USA,Swimming,F,51,Y,tiger shark
+Unprovoked,USA,"Surfing, lying on surfboard",M,16,Y,tiger shark
+Unprovoked,USA,Kayaking,M,37,Y,white shark
+Unprovoked,USA,Wading,F,61,Y,unknown
+Unprovoked,USA,Surfing,M,13,Y,unknown
+Provoked,USA,Wading,M,7,Y,unknown
+Unprovoked,USA,Surfing,M,28,Y,unknown
+Unprovoked,USA,Lying prone in 2' of water,M,10,Y,unknown
+Unprovoked,USA,Body surfing,M,62,Y,unknown
+Unprovoked,USA,Swimming with dolphins,M,43,Y,bull shark
+Unprovoked,USA,Surfing,M,43,Y,tiger shark
+Unprovoked,USA,Wading in school of baitfish,F,30,Y,blacktip shark
+Unprovoked,USA,Adrift in a life jacket,M,20,Y,unknown
+Unprovoked,USA,Surfing,M,21,Y,unknown
+Unprovoked,USA,Splashing / wading,M,5,Y,spinner shark
+Unprovoked,USA,Swimming near pod of whales,F,29,Y,seen shark
+Unprovoked,USA,Surfing,M,25,Y,spinner shark
+Unprovoked,USA,Swimming,M,9,Y,tiger shark
+Unprovoked,USA,Surfing,M,14,Y,unknown
+Unprovoked,USA,Walking,M,13,Y,unknown
+Unprovoked,USA,Surfing,M,32,Y,white shark
+Unprovoked,USA,Surfing,M,28,Y,unknown
+Unprovoked,USA,Surfing,M,26,Y,unknown
+Unprovoked,USA,Boogie boarding,M,16,Y,white shark
+Unprovoked,USA,Body-boarding,M,11,Y,unknown
+Unprovoked,USA,Surfing,M,40,Y,lemon shark
+Unprovoked,USA,Swimming,F,14,Y,blacktip shark
+Unprovoked,USA,Surfing (lying prone on his board),M,50,Y,white shark
+Provoked,USA,Scuba diving,M,16,Y,nurse shark
+Unprovoked,USA,Swimming or paddle boarding,M,32,Y,spinner shark
+Unprovoked,USA,Body boarding or surfing,M,19,Y,tiger shark
+Unprovoked,USA,Surfing,M,23,Y,blacktip shark
+Unprovoked,USA,Surfing,M,12,Y,unknown
+Unprovoked,USA,Surfing (sitting on his board),M,29,Y,white shark
+Unprovoked,USA,Wading,F,10,Y,unknown
+Unprovoked,USA,Body surfing,M,17,Y,juvenile shark
+Unprovoked,USA,Wading / Surfing,M,19,Y,juvenile shark
+Unprovoked,USA,Standing,M,50,Y,blacktip shark
+Unprovoked,USA,Surfing,M,18,Y,spinner shark
+Unprovoked,USA,"Body surfing, stood up on sandbar",M,33,Y,spinner shark
+Unprovoked,USA,Spearfishing,M,35,Y,unknown
+Unprovoked,USA,Surfing,M,34,Y,sand shark
+Unprovoked,USA,Surfing,M,12,Y,sand shark
+Unprovoked,USA,Surfing,M,45,Y,white shark
+Unprovoked,USA,Surfing,M,22,Y,white shark
+Unprovoked,USA,Surfing,M,21,Y,unknown
+Unprovoked,USA,Surfing,M,31,Y,white shark
+Unprovoked,USA,Surfing / Swimming,M,19,Y,young shark
+Unprovoked,USA,Body Boarding,M,19,Y,tiger shark
+Unprovoked,USA,Free diving for abalone,M,36,Y,white shark
+Unprovoked,USA,Wade fishing,M,21,Y,hammerhead shark
+Unprovoked,USA,Swimming,M,46,Y,unknown
+Unprovoked,USA,Standing,F,63,Y,unknown
+Unprovoked,USA,Surfing,M,22,Y,unknown
+Unprovoked,USA,Surfing,M,27,Y,spinner shark
+Provoked,USA,Swimming in fish tank,F,32,Y,nurse shark
+Provoked,USA,Wading,M,33,Y,nurse shark
+Unprovoked,USA,Swimming with mask & snorkel,M,53,Y,tiger shark
+Unprovoked,USA,Surfing,M,39,Y,unknown
+Unprovoked,USA,Surfing,M,14,Y,unknown
+Unprovoked,USA,Windsurfing,M,25,Y,white shark
+Unprovoked,USA,Surfing,M,19,Y,unknown
+Unprovoked,USA,Scuba diving,M,25,Y,bull shark
+Unprovoked,USA,Abalone diving using Hookah (resting on the surface),M,32,Y,white shark
+Unprovoked,USA,Surfing,M,19,Y,unknown
+Unprovoked,USA,Surfing,M,16,Y,unknown
+Unprovoked,USA,Surfing,M,18,Y,unknown
+Unprovoked,USA,Swimming,M,16,Y,unknown
+Unprovoked,USA,Swimming,M,23,Y,sand shark
+Unprovoked,USA,Surfing,M,19,Y,unknown
+Unprovoked,USA,Wading,M,20,Y,unknown
+Unprovoked,USA,"""Riding waves on a board""",F,14,Y,blacktip shark
+Unprovoked,USA,Body boarding,M,12,Y,unknown
+Provoked,USA,Fishing,F,32,Y,blacktip shark
+Unprovoked,USA,Scuba diving (ascending using scooter),M,31,Y,white shark
+Unprovoked,USA,Playing / jumping,M,13,Y,sand shark
+Unprovoked,USA,Swimming,M,45,Y,unknown
+Unprovoked,USA,Swimming,F,10,Y,unknown
+Unprovoked,USA,Swimming,M,38,Y,tiger shark
+Unprovoked,USA,Surfing,M,15,Y,bull shark
+Unprovoked,USA,Commercial diver (submerged or treading water),M,42,Y,white shark
+Unprovoked,USA,"Surfing, paddling seawards",F,34,Y,unknown
+Provoked,USA,Wading,F,9,Y,sand shark
+Unprovoked,USA,Surfing,M,43,Y,white shark
+Unprovoked,USA,Jumped off rocks into white water,F,12,Y,unknown
+Unprovoked,USA,Surfing,M,15,Y,unknown
+Unprovoked,USA,Surfing,M,28,Y,spinner shark
+Unprovoked,USA,Spearfishing,M,35,Y,unknown
+Unprovoked,USA,Wading,F,36,Y,unknown
+Unprovoked,USA,Surfing,M,22,Y,unknown
+Provoked,USA,Removing shark from tank in nightclub,M,33,Y,lemon shark
+Unprovoked,USA,Surfing,M,23,Y,unknown
+Unprovoked,USA,Surfing,M,26,Y,white shark
+Unprovoked,USA,Swimming,F,26,Y,bull shark
+Boating,USA,Kayaking,F,34,Y,white shark
+Unprovoked,USA,Wading,M,19,Y,unknown
+Unprovoked,USA,Riding floatation device,F,19,Y,bull shark
+Unprovoked,USA,Free diving for abalone (ascending),M,39,Y,white shark
+Unprovoked,USA,Playing,F,12,Y,tooth shark
+Unprovoked,USA,Paddling on surfboard or body board,M,22,Y,tiger shark
+Unprovoked,USA,Swimming,F,60's,Y,unknown
+Unprovoked,USA,Paddling on surfboard,M,35,Y,tiger shark
+Unprovoked,USA,Free diving & spearfishing (ascending),M,55,Y,white shark
+Unprovoked,USA,Surfing,M,29,Y,white shark
+Unprovoked,USA,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",M,10,Y,tiger shark
+Unprovoked,USA,Lying on surfboard,M,30,Y,tiger shark
+Unprovoked,USA,Spearfishing / free diving,M,31,Y,mako shark
+Unprovoked,USA,Surfing,M,19,Y,blacktip shark
+Unprovoked,USA,Surfing,M,24,Y,unknown
+Boating,USA,Kayaking,M,46,Y,white shark
+Unprovoked,USA,Scuba diving (submerged),M,40,Y,unknown
+Unprovoked,USA,Body boarding,M,18,Y,tiger shark
+Unprovoked,USA,Hookah diving for sea urchins,M,40,Y,white shark
+Unprovoked,USA,Surfing,M,28,Y,tiger shark
+Unprovoked,USA,Surfing,M,20,Y,white shark
+Unprovoked,USA,Surfing,M,22,Y,white shark
+Provoked,USA,Snorkeling,M,26,Y,nurse shark
+Unprovoked,USA,Standing,F,42,Y,unknown
+Unprovoked,USA,"Surfing, paddling seawards",F,36,Y,tiger shark
+Unprovoked,USA,Surfing (sitting on his board),M,21,Y,white shark
+Unprovoked,USA,Hookah diving for sea urchins,M,25,Y,white shark
+Unprovoked,USA,Snorkeling,F,41,Y,tiger shark
+Unprovoked,USA,Surfing,M,21,Y,unknown
+Unprovoked,USA,Surfing,M,32,Y,white shark
+Unprovoked,USA,Swimming,M,23,Y,sand shark
+Unprovoked,USA,Wading,F,10,Y,unknown
+Unprovoked,USA,Snorkeling,M,39,Y,reef shark
+Unprovoked,USA,Swimming from makeshift raft  to life vest after fishing boat sank,M,42,Y,blacktip shark
+Unprovoked,USA,Surfing,M,32,Y,white shark
+Unprovoked,USA,Boogie boarding,M,13,Y,unknown
+Unprovoked,USA,Swimming behind sailboat,M,31,Y,lemon shark
+Unprovoked,USA,Sitting on surfboard,M,23,Y,unknown
+Unprovoked,USA,"Surfing, collided with shark",M,22,Y,unknown
+Unprovoked,USA,Surfing,M,38,Y,white shark
+Unprovoked,USA,Surfing,M,24,Y,unknown
+Unprovoked,USA,Surfing,M,50,Y,unknown
+Unprovoked,USA,Surfing,M,25,Y,spinner shark
+Unprovoked,USA,Surfing,M,43,Y,tiger shark
+Unprovoked,USA,Surfing,M,19,Y,unknown
+Unprovoked,USA,"Free diving / spearfishing, from paddleboard & floating on the surface",M,49,Y,white shark
+Boating,USA,Kayaking,M,44,Y,white shark
+Unprovoked,USA,Surfing,M,22,Y,white shark
+Unprovoked,USA,Surfing,M,12,Y,unknown
+Provoked,USA,"Fishing, stepped on hooked shark's head",M,51,Y,lb shark
+Unprovoked,USA,Hookah diving for abalone (descending),M,38,Y,white shark
+Unprovoked,USA,Surfing,M,31,Y,sandbar shark
+Provoked,USA,Filming 5' blue shark,M,46,Y,blue shark
+Unprovoked,USA,Swimming,M,21,Y,unknown
+Unprovoked,USA,Playing,F,9,Y,unknown
+Unprovoked,USA,Spearfishing,M,45,Y,sandtiger shark
+Unprovoked,USA,Swimming,M,19,Y,unknown
+Unprovoked,USA,Kayaking,F,24,Y,white shark
+Unprovoked,USA,Body boarding,M,10,Y,hammerhead shark
+Unprovoked,USA,Surfing (sitting on his board),M,21,Y,white shark
+Unprovoked,USA,Surfing,M,15,Y,unknown
+Unprovoked,USA,Surfing,M,30,Y,unknown
+Unprovoked,USA,Surfing,M,23,Y,unknown
+Unprovoked,USA,Wading,F,23,Y,unknown
+Unprovoked,USA,Surfing,M,21,Y,unknown
+Unprovoked,USA,Snorkeling,M,38,Y,bull shark
+Unprovoked,USA,Surfing,M,27,Y,white shark
+Unprovoked,USA,Scuba diving,M,42,Y,sandtiger shark
+Unprovoked,USA,Sittting in water with his child,M,37,Y,sand shark
+Unprovoked,USA,Surfing,M,25,Y,unknown
+Unprovoked,USA,Surfing,M,16,Y,blacktip shark
+Unprovoked,USA,Surfing,M,20,Y,unknown
+Unprovoked,USA,Wading,M,12,Y,unknown
+Unprovoked,USA,Surfing (sitting on his board),M,40,Y,white shark
+Unprovoked,USA,Surfing,M,27,Y,unknown
+Unprovoked,USA,Body surfing,F,32,Y,unknown
+Unprovoked,USA,Wading,F,16,Y,unknown
+Unprovoked,USA,Surfing,M,40,Y,blacktip shark
+Unprovoked,USA,Free diving  & spearfishing (submerged),M,27,Y,white shark
+Unprovoked,USA,Swimming,F,6,Y,lemon shark
+Unprovoked,USA,Surfing,M,28,Y,bull shark
+Unprovoked,USA,Surfing,M,22,Y,blacktip shark
+Unprovoked,USA,Surfing,M,16,Y,unknown
+Unprovoked,USA,Hookah diving for abalone,M,46,Y,sevengill shark
+Unprovoked,USA,Body boarding,M,33,Y,tiger shark
+Unprovoked,USA,Floating on inner tube after diving for lobster,M,24,Y,unknown
+Unprovoked,USA,Wading,F,13,Y,hammerhead shark
+Unprovoked,USA,Playing in knee-deep water,F,10,Y,tiger shark
+Unprovoked,USA,Scuba Diving for lobster (at surface),M,29,Y,white shark
+Unprovoked,USA,Surfing,M,13,Y,unknown
+Provoked,USA,Spearfishing,M,29,Y,unknown
+Unprovoked,USA,Surfing or body surfing,F,23,Y,unknown
+Unprovoked,USA,Surfing,M,15,Y,blacktip shark
+Unprovoked,USA,Surfing (sitting on his board),M,25,Y,white shark
+Unprovoked,USA,Surfing,M,16,Y,hammerhead shark
+Unprovoked,USA,Skindiving,M,28,Y,white shark
+Unprovoked,USA,Swimming,F,18,Y,unknown
+Unprovoked,USA,Towing her sister on plastic ski board,F,13,Y,hammerhead shark
+Unprovoked,USA,Surfing,M,15,Y,tiger shark
+Unprovoked,USA,Surfing,M,16,Y,unknown
+Unprovoked,USA,Wading,M,20,Y,unknown
+Unprovoked,USA,Swimming,F,14,Y,sand shark
+Provoked,USA,Skindiving,M,14,Y,nurse shark
+Unprovoked,USA,Diving,F,22,Y,bull shark
+Unprovoked,USA,Windsurfing,F,39,Y,hammerhead shark
+Unprovoked,USA,Water-skiing,M,21,Y,unknown
+Unprovoked,USA,Windsurfing,M,26,Y,unknown
+Unprovoked,USA,Surfing,M,20,Y,unknown
+Unprovoked,USA,Diving,M,36,Y,white shark
+Unprovoked,USA,Free diving for abalone from Zodiac (submerged),M,28,Y,white shark
+Unprovoked,USA,Paddle Boarding,M,26,Y,white shark
+Unprovoked,USA,Swimming,M,17,Y,unknown
+Unprovoked,USA,Swimming,M,20,Y,unknown
+Unprovoked,USA,Surfing,M,18,Y,unknown
+Unprovoked,USA,Surfing,M,24,Y,white shark
+Unprovoked,USA,Diving to untangle a crab trap line from boat's propeller,M,59,Y,flat shark
+Unprovoked,USA,Swimming,M,19,Y,unknown
+Unprovoked,USA,Surfing,M,24,Y,unknown
+Unprovoked,USA,Swimming,M,26,Y,tiger shark
+Unprovoked,USA,Surfing,M,15,Y,unknown
+Provoked,USA,Spearfishing,M,19,Y,unknown
+Unprovoked,USA,Swimming,F,16,Y,unknown
+Unprovoked,USA,Standing / Wading,M,19,Y,dusky shark
+Unprovoked,USA,Surfing,M,24,Y,unknown
+Unprovoked,USA,Surfing,M,15,Y,hammerhead shark
+Unprovoked,USA,Commercial spearfishing,M,25,Y,tiger shark
+Unprovoked,USA,Surfing,M,29,Y,white shark
+Unprovoked,USA,Surfing,M,19,Y,white shark
+Unprovoked,USA,Standing,F,22,Y,unknown
+Provoked,USA,Scuba diving,F,44,Y,blue shark
+Unprovoked,USA,Surfing,M,20,Y,white shark
+Unprovoked,USA,Surfing,M,27,Y,spinner shark
+Unprovoked,USA,Free diving for abalone (surfacing),M,20,Y,white shark
+Provoked,USA,Spearfishing / Scuba diving,M,27,Y,bull shark
+Unprovoked,USA,Collecting fish from net,M,25,Y,bull shark
+Unprovoked,USA,Hookah diving for abalone (submerged),M,29,Y,white shark
+Unprovoked,USA,Surfing,M,19,Y,lemon shark
+Unprovoked,USA,Surfing,M,25,Y,white shark
+Unprovoked,USA,Surfing,M,15,Y,tiger shark
+Unprovoked,USA,Surfing,M,19,Y,white shark
+Unprovoked,USA,Spearfishing,M,23,Y,unknown
+Unprovoked,USA,Skindiving,M,17,Y,unknown
+Unprovoked,USA,Spearfishing / scuba diving,M,25,Y,unknown
+Unprovoked,USA,Scuba diving & spearfishing,M,27,Y,white shark
+Unprovoked,USA,Surfing,M,18,Y,unknown
+Unprovoked,USA,Floating on a small orange raft,M,20,Y,unknown
+Unprovoked,USA,Free diving for abalone,M,44,Y,white shark
+Unprovoked,USA,Scuba diving for abalone (at surface),M,23,Y,white shark
+Unprovoked,USA,Hookah diving for abalone,M,34,Y,white shark
+Unprovoked,USA,Swimming,F,14,Y,unknown
+Unprovoked,USA,Swimming,M,18,Y,unknown
+Unprovoked,USA,Floating in inner tube,M,14,Y,unknown
+Unprovoked,USA,Surfing,M,17,Y,white shark
+Unprovoked,USA,Hookah diving for abalone,M,29,Y,white shark
+Unprovoked,USA,Scuba diving (but on surface),M,41,Y,white shark
+Unprovoked,USA,Scuba diving (but on surface),M,48,Y,white shark
+Unprovoked,USA,Surfing,M,24,Y,white shark
+Unprovoked,USA,Free diving for abalone (submerged),M,36,Y,white shark
+Unprovoked,USA,Swimming,M,17,Y,unknown
+Sea Disaster,USA,Adrift after the sinking of the motor yacht Princess Dianne,M,10,Y,unknown
+Unprovoked,USA,Free diving (but on surface),M,45,Y,white shark
+Unprovoked,USA,Crabbing (spearing crabs),M,17,Y,blacktip shark
+Unprovoked,USA,Surfing,M,22,Y,unknown
+Unprovoked,USA,Free diving for abalone,M,32,Y,white shark
+Unprovoked,USA,Surfing,M,18,Y,unknown
+Unprovoked,USA,Scuba diving,M,30,Y,white shark
+Provoked,USA,Fishing,M,13,Y,unknown
+Unprovoked,USA,Free diving for abalone,M,53,Y,white shark
+Unprovoked,USA,Body surfing,M,13,Y,unknown
+Provoked,USA,Diving,M,23,Y,nurse shark
+Provoked,USA,Fishing,M,adult,Y,lemon shark
+Unprovoked,USA,Surfing,M,16,Y,white shark
+Unprovoked,USA,Free diving,M,25,Y,white shark
+Unprovoked,USA,Spearfishing using Scuba,M,33,Y,unknown
+Unprovoked,USA,Standing on sandbar,M,19,Y,blacktip shark
+Provoked,USA,Pulling shark from the water,M,24,Y,blue shark
+Unprovoked,USA,Spearfishing,M,15,Y,nurse shark
+Provoked,USA,Spearfishing,M,26,Y,nurse shark
+Provoked,USA,Hunting crayfish,M,14,Y,nurse shark
+Unprovoked,USA,Wading,M,8,Y,blacktip shark
+Unprovoked,USA,Diving for sand dollars,M,16,Y,lemon shark
+Provoked,USA,Killing a shark,M,34,Y,unknown
+Provoked,USA,Clamming,M,15,Y,for shark
+Provoked,USA,Fishing,M,18,Y,hammerhead shark
+Unprovoked,USA,Swimming,M,18,Y,unknown
+Unprovoked,USA,Free diving / spearfishing (resting on the surface),M,29,Y,white shark
+Unprovoked,USA,Swimming,M,35,Y,hammerhead shark
+Unprovoked,USA,Spearfishing,M,28,Y,white shark
+Unprovoked,USA,Paddling on surfboard,M,17,Y,spinner shark
+Unprovoked,USA,Free diving,M,16,Y,mako shark
+Unprovoked,USA,Scuba diving,M,18,Y,unknown
+Unprovoked,USA,Spearfishing using scuba,M,28,Y,hammerhead shark
+Unprovoked,USA,Skin diving,M,38,Y,unknown
+Unprovoked,USA,Floating,M,12,Y,hammerhead shark
+Unprovoked,USA,Spearfishing / Scuba diving (at surface),M,21,Y,white shark
+Unprovoked,USA,"Surf fishing, wading ",M,28,Y,lb shark
+Provoked,USA,"Spearfishing, pulled sharks tail",M,16,Y,nurse shark
+Provoked,USA,"Fishing, on charter boat Silver Dollar",M,24,Y,unknown
+Unprovoked,USA,Swimming,M,25,Y,galapagos shark
+Unprovoked,USA,Surfing,M,15,Y,seen shark
+Unprovoked,USA,Spearfishing / Scuba diving (at surface),M,24,Y,white shark
+Provoked,USA,Diving for abalone,M,39,Y,unknown
+Unprovoked,USA,Surf fishing in waist-deep water,M,40,Y,unknown
+Unprovoked,USA,Standing,M,24,Y,unknown
+Unprovoked,USA,Standing,M,21,Y,unknown
+Provoked,USA,Fishing for albacore,M,19,Y,blue shark
+Unprovoked,USA,Rolled off raft,M,11,Y,unknown
+Provoked,USA,"Scuba diving, attempting to catch a captive shark",M,55,Y,sevengill shark
+Unprovoked,USA,Spearfishing / Scuba diving (at surface),M,29,Y,white shark
+Unprovoked,USA,Swimming,M,16,Y,white shark
+Unprovoked,USA,Wading,M,19,Y,white shark
+Unprovoked,USA,"Net fishing, picking catch from the net",M,38,Y,unknown
+Provoked,USA,Spearfishing,M,57,Y,unknown
+Unprovoked,USA,Free diving for abalone,M,20,Y,white shark
+Unprovoked,USA,Walking in chest-deep water,M,52,Y,hammerhead shark
+Unprovoked,USA,Spearfishing,M,22,Y,tiger shark
+Provoked,USA,Holding shark on leader & dangling it above the water,M,15,Y,lemon shark
+Unprovoked,USA,"Fishing, Struck by another shark when removing shark from line",M,46,Y,unknown
+Provoked,USA,"Fishing, tossing netted shark onboard",M,41,Y,sand shark
+Unprovoked,USA,Scuba diving,M,39,Y,mako shark
+Unprovoked,USA,Swimming,F,16,Y,white shark
+Unprovoked,USA,Skindiving for abalone (but at surface),M,48,Y,white shark
+Unprovoked,USA,Treading water,M,42,Y,larger shark
+Unprovoked,USA,Swimming at surface through school of feeding 2.5' to 5 sharks,M,21,Y,blue shark
+Unprovoked,USA,Diving for abalone,M,30,Y,white shark
+Sea Disaster,USA,"Adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",M,30,Y,hammerhead shark
+Unprovoked,USA,Spearfishing on Scuba,M,26,Y,unknown
+Provoked,USA,"Spearfishing with Joe Turner (24). Shark attracted to speared halibut on belt of one diver, tried to bite Ides speargun & he shot it in the mouth",M,32,Y,hammerhead shark
+Unprovoked,USA,Spearfishing (but on surface),M,25,Y,hammerhead shark
+Provoked,USA,Free diving,M,13,Y,nurse shark
+Unprovoked,USA,Free diving for abalone,M,33,Y,white shark
+Unprovoked,USA,Treading water,M,18,Y,white shark
+Unprovoked,USA,Spearfishing,M,19,Y,tiger shark
+Unprovoked,USA,Surfing on air mattress,M,15,Y,tiger shark
+Unprovoked,USA,"Swimming, ducking for shells in water 0.9 m deep",M,12,Y,tiger shark
+Unprovoked,USA,"Swimming, ducking for shells in water 0.9 m deep",M,8,Y,tiger shark
+Provoked,USA,Free diving,M,20,Y,nurse shark
+Provoked,USA,Wading,M,59,Y,nurse shark
+Unprovoked,USA,Walking,M,17,Y,tiger shark
+Provoked,USA,Free diving,M,29,Y,nurse shark
+Provoked,USA,Spearfishing on Scuba,M,18,Y,nurse shark
+Unprovoked,USA,Swimming,M,57,Y,white shark
+Unprovoked,USA,Swimming,M,25,Y,white shark
+Provoked,USA,Standing,M,17,Y,unknown
+Unprovoked,USA,Surf fishing,M,27,Y,sand shark
+Unprovoked,USA,Swimming near pier,M,10,Y,white shark
+Provoked,USA,Fishing,M,38,Y,lb shark
+Provoked,USA,Surfing,M,25,Y,blue shark
+Unprovoked,USA,Wading,M,13,Y,sand shark
+Provoked,USA,Spearfishing,M,28,Y,unknown
+Unprovoked,USA,Spearfishing,M,19,Y,white shark
+Unprovoked,USA,Swimming,M,35,Y,unknown
+Unprovoked,USA,Surf fishing,M,15,Y,sand shark
+Unprovoked,USA,Spearfishing,M,15,Y,seen shark
+Unprovoked,USA,Body surfing & treading water,M,17,Y,white shark
+Unprovoked,USA,Swimming from fishing boat setting nets,M,40,Y,unknown
+Provoked,USA,Fishing,M,43,Y,unknown
+Provoked,USA,Fishing,M,34,Y,unknown
+Unprovoked,USA,Body surfing / treading water,M,31,Y,white shark
+Unprovoked,USA,Swimming,M,11,Y,hammerhead shark
+Unprovoked,USA,"Goggle-diving for seaweeds, but standing in water",M,21,Y,unknown
+Unprovoked,USA,Swimming,M,16,Y,sand shark
+Provoked,USA,Fishing,M,16,Y,bonita shark
+Provoked,USA,Underwater photography,M,48,Y,nurse shark
+Unprovoked,USA,Swimming,M,20,Y,unknown
+Provoked,USA,Fishing,M,46,Y,unknown
+Unprovoked,USA,Bathing,F,15,Y,blacktip shark
+Provoked,USA,Fishing from 32' boat,M,43,Y,unknown
+Provoked,USA,Fishing,M,53,Y,mako shark
+Unprovoked,USA,Swimming crawl stroke,M,16,Y,white shark
+Unprovoked,USA,"Fishing for bluefish, shark leapt into dory",M,31,Y,unknown
+Unprovoked,USA,Sitting in 3' of water,M,15,Y,lemon shark
+Unprovoked,USA,Swimming,M,24,Y,bull shark
+Provoked,USA,Fishing,M,32,Y,dog shark
+Unprovoked,USA,Swimming,F,20,Y,hammerhead shark
+Unprovoked,USA,Swimming,M,21,Y,tiger shark
+Unprovoked,USA,Swimming with dog near canning factory,M,15,Y,white shark
+Unprovoked,USA,Floating,F,18,Y,unknown
+Unprovoked,USA,Swimming,M,12,Y,involve shark
+Unprovoked,USA,Swimming (recovering remains of Stilwell),M,24,Y,unknown
+Unprovoked,USA,Swimming,M,24,Y,white shark
+Unprovoked,USA,Swimming,M,15,Y,unknown
+Unprovoked,USA,Fishing (Seining),M,15,Y,white shark
+Unprovoked,USA,Shark tagging,F,21,Y,blacktip shark
+Provoked,USA,Skin diving. Grabbed shark's tail; shark turned & grabbed diver's ankle & began towing him to deep water,M,19,Y,nurse shark
