@@ -1,5 +1,8 @@
 # Shark-Attack-preditions
 
+Script em Python no notebook do Google Colab:
+https://colab.research.google.com/drive/1E6H9Fyw88E0MnRti0Zrf8IaSgPMZ3G2k?usp=sharing
+
 Problema: Como podemos reduzir, com o uso de tecnologias inovadoras, os riscos de incidentes com tubarões?
 
 Existem mais de 350 espécies de tubarões, no entanto, apenas três delas são responsáveis pela maior parte das mortes: o tubarão-branco, o tubarão-tigre e o tubarão-touro. Segundo o dados do ISAF (International Shark Attack File), o EUA lidera o ranking de mais ataques de tubarões com 1640 ataques, Austrália em segundo com 706 e África do Sul em terceiro com 262.
